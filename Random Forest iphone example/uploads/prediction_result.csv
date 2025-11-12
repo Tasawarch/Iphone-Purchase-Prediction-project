@@ -1,0 +1,1000 @@
+Gender,Age,Salary,Prediction
+1,19,40884,Will Not Purchase iPhone
+0,23,25454,Will Purchase iPhone
+1,45,94960,Will Purchase iPhone
+1,46,122421,Will Purchase iPhone
+1,43,127173,Will Purchase iPhone
+0,42,63618,Will Not Purchase iPhone
+1,29,103948,Will Not Purchase iPhone
+1,22,82671,Will Not Purchase iPhone
+1,51,67111,Will Purchase iPhone
+0,54,59613,Will Purchase iPhone
+1,32,105678,Will Purchase iPhone
+1,53,140592,Will Not Purchase iPhone
+1,32,122928,Will Not Purchase iPhone
+1,40,144917,Will Not Purchase iPhone
+0,23,79993,Will Not Purchase iPhone
+1,38,148652,Will Not Purchase iPhone
+0,40,28848,Will Not Purchase iPhone
+0,33,134853,Will Not Purchase iPhone
+0,32,98672,Will Not Purchase iPhone
+1,42,139279,Will Purchase iPhone
+0,53,86125,Will Not Purchase iPhone
+1,28,106444,Will Not Purchase iPhone
+0,32,137509,Will Not Purchase iPhone
+0,21,81602,Will Purchase iPhone
+0,38,92045,Will Not Purchase iPhone
+0,30,125997,Will Not Purchase iPhone
+0,39,62222,Will Purchase iPhone
+0,36,69223,Will Not Purchase iPhone
+0,51,130012,Will Purchase iPhone
+0,31,131246,Will Not Purchase iPhone
+1,21,85333,Will Not Purchase iPhone
+1,44,72732,Will Purchase iPhone
+0,46,142650,Will Not Purchase iPhone
+0,45,69420,Will Purchase iPhone
+0,52,95504,Will Purchase iPhone
+1,25,22462,Will Purchase iPhone
+0,33,29460,Will Purchase iPhone
+1,59,119319,Will Purchase iPhone
+1,53,145602,Will Not Purchase iPhone
+1,47,29275,Will Purchase iPhone
+1,35,114213,Will Not Purchase iPhone
+1,19,33269,Will Not Purchase iPhone
+0,30,149593,Will Purchase iPhone
+0,21,142672,Will Purchase iPhone
+0,43,85942,Will Purchase iPhone
+0,42,92920,Will Not Purchase iPhone
+0,47,140737,Will Purchase iPhone
+1,28,42553,Will Purchase iPhone
+0,24,44366,Will Not Purchase iPhone
+0,48,64036,Will Not Purchase iPhone
+1,27,37369,Will Purchase iPhone
+0,56,31795,Will Purchase iPhone
+1,30,90021,Will Not Purchase iPhone
+0,48,127205,Will Not Purchase iPhone
+1,24,88154,Will Purchase iPhone
+0,59,50143,Will Purchase iPhone
+0,59,49425,Will Purchase iPhone
+1,53,108209,Will Purchase iPhone
+1,37,95139,Will Not Purchase iPhone
+1,21,125232,Will Not Purchase iPhone
+1,24,25368,Will Purchase iPhone
+1,18,24621,Will Not Purchase iPhone
+1,59,78829,Will Not Purchase iPhone
+1,30,149036,Will Not Purchase iPhone
+1,39,80294,Will Purchase iPhone
+0,38,34719,Will Not Purchase iPhone
+0,39,49227,Will Not Purchase iPhone
+1,45,129430,Will Not Purchase iPhone
+0,26,27566,Will Purchase iPhone
+0,43,32306,Will Purchase iPhone
+0,26,73822,Will Purchase iPhone
+0,32,44042,Will Not Purchase iPhone
+1,27,35086,Will Not Purchase iPhone
+0,41,37387,Will Purchase iPhone
+1,59,47042,Will Not Purchase iPhone
+0,25,109424,Will Not Purchase iPhone
+0,41,71618,Will Not Purchase iPhone
+0,33,112050,Will Not Purchase iPhone
+1,43,38323,Will Not Purchase iPhone
+0,44,38019,Will Purchase iPhone
+1,54,95426,Will Purchase iPhone
+0,21,60863,Will Purchase iPhone
+1,41,140953,Will Purchase iPhone
+0,36,131023,Will Purchase iPhone
+1,53,30283,Will Purchase iPhone
+1,56,38279,Will Purchase iPhone
+0,27,66999,Will Purchase iPhone
+1,42,82780,Will Purchase iPhone
+0,35,42908,Will Purchase iPhone
+0,36,81584,Will Not Purchase iPhone
+0,53,146278,Will Purchase iPhone
+0,27,133002,Will Not Purchase iPhone
+0,50,70225,Will Not Purchase iPhone
+0,22,57952,Will Purchase iPhone
+0,52,120706,Will Not Purchase iPhone
+0,51,57663,Will Not Purchase iPhone
+0,50,142019,Will Purchase iPhone
+0,38,129708,Will Not Purchase iPhone
+0,34,81381,Will Not Purchase iPhone
+1,39,67929,Will Not Purchase iPhone
+1,54,29343,Will Not Purchase iPhone
+0,32,96173,Will Purchase iPhone
+0,52,120260,Will Not Purchase iPhone
+0,45,59791,Will Purchase iPhone
+0,24,49134,Will Not Purchase iPhone
+0,49,132366,Will Purchase iPhone
+0,28,67101,Will Not Purchase iPhone
+0,27,89443,Will Not Purchase iPhone
+0,26,119111,Will Not Purchase iPhone
+1,31,77530,Will Purchase iPhone
+0,30,66799,Will Not Purchase iPhone
+1,42,24827,Will Not Purchase iPhone
+0,19,116143,Will Not Purchase iPhone
+0,52,82653,Will Purchase iPhone
+1,24,33699,Will Not Purchase iPhone
+0,38,122828,Will Not Purchase iPhone
+1,35,133497,Will Purchase iPhone
+0,20,111419,Will Purchase iPhone
+0,59,134527,Will Not Purchase iPhone
+1,56,136972,Will Purchase iPhone
+0,58,25313,Will Not Purchase iPhone
+1,28,33598,Will Not Purchase iPhone
+0,56,131362,Will Purchase iPhone
+1,41,135445,Will Not Purchase iPhone
+1,36,48807,Will Not Purchase iPhone
+0,21,90423,Will Not Purchase iPhone
+0,43,89390,Will Not Purchase iPhone
+1,55,65226,Will Purchase iPhone
+0,59,79550,Will Not Purchase iPhone
+0,49,100072,Will Purchase iPhone
+0,56,23558,Will Not Purchase iPhone
+1,53,95308,Will Not Purchase iPhone
+1,57,70113,Will Not Purchase iPhone
+1,54,72999,Will Not Purchase iPhone
+1,50,75878,Will Not Purchase iPhone
+1,53,56343,Will Purchase iPhone
+1,20,78219,Will Purchase iPhone
+1,26,55186,Will Purchase iPhone
+1,25,56966,Will Not Purchase iPhone
+1,50,53769,Will Not Purchase iPhone
+0,23,139932,Will Not Purchase iPhone
+1,58,146264,Will Purchase iPhone
+0,56,125423,Will Not Purchase iPhone
+0,21,73218,Will Purchase iPhone
+0,30,39229,Will Not Purchase iPhone
+1,19,95209,Will Not Purchase iPhone
+1,22,47877,Will Not Purchase iPhone
+1,44,78001,Will Not Purchase iPhone
+1,49,117137,Will Purchase iPhone
+0,38,58084,Will Not Purchase iPhone
+1,25,101780,Will Not Purchase iPhone
+1,55,112892,Will Not Purchase iPhone
+1,25,36806,Will Purchase iPhone
+1,20,108635,Will Not Purchase iPhone
+1,20,130177,Will Not Purchase iPhone
+0,39,57034,Will Not Purchase iPhone
+1,23,60317,Will Not Purchase iPhone
+0,19,75468,Will Not Purchase iPhone
+1,40,39094,Will Purchase iPhone
+0,19,77796,Will Purchase iPhone
+1,55,30589,Will Not Purchase iPhone
+1,34,77221,Will Not Purchase iPhone
+0,52,144855,Will Not Purchase iPhone
+0,51,21657,Will Purchase iPhone
+0,40,118300,Will Not Purchase iPhone
+1,47,137229,Will Not Purchase iPhone
+0,25,59531,Will Purchase iPhone
+1,39,72227,Will Purchase iPhone
+1,53,23164,Will Purchase iPhone
+0,22,113078,Will Not Purchase iPhone
+0,30,103973,Will Purchase iPhone
+1,46,61247,Will Not Purchase iPhone
+1,48,124041,Will Not Purchase iPhone
+0,33,39601,Will Not Purchase iPhone
+0,59,113966,Will Not Purchase iPhone
+0,47,70599,Will Not Purchase iPhone
+1,33,91545,Will Purchase iPhone
+1,29,135295,Will Purchase iPhone
+1,34,24552,Will Not Purchase iPhone
+1,33,136452,Will Not Purchase iPhone
+1,29,29417,Will Purchase iPhone
+1,25,78579,Will Not Purchase iPhone
+0,37,127525,Will Not Purchase iPhone
+1,20,88207,Will Purchase iPhone
+1,33,92055,Will Not Purchase iPhone
+1,47,122266,Will Purchase iPhone
+0,40,98270,Will Purchase iPhone
+1,45,131426,Will Not Purchase iPhone
+1,57,137865,Will Not Purchase iPhone
+0,22,23722,Will Not Purchase iPhone
+1,37,90442,Will Not Purchase iPhone
+1,57,115632,Will Not Purchase iPhone
+1,18,60031,Will Not Purchase iPhone
+1,47,99235,Will Not Purchase iPhone
+1,38,41438,Will Not Purchase iPhone
+0,37,78819,Will Purchase iPhone
+0,23,63856,Will Not Purchase iPhone
+0,39,53576,Will Purchase iPhone
+1,35,61938,Will Not Purchase iPhone
+1,25,69028,Will Purchase iPhone
+1,56,79807,Will Not Purchase iPhone
+0,49,69877,Will Not Purchase iPhone
+1,50,117783,Will Purchase iPhone
+1,33,63461,Will Purchase iPhone
+0,29,113474,Will Not Purchase iPhone
+1,55,60469,Will Not Purchase iPhone
+0,51,103136,Will Purchase iPhone
+0,31,40435,Will Purchase iPhone
+0,53,104117,Will Not Purchase iPhone
+1,50,34191,Will Not Purchase iPhone
+1,40,104726,Will Purchase iPhone
+1,19,143658,Will Not Purchase iPhone
+1,58,135660,Will Purchase iPhone
+1,38,47386,Will Not Purchase iPhone
+1,19,51721,Will Not Purchase iPhone
+1,44,74786,Will Purchase iPhone
+0,26,33704,Will Not Purchase iPhone
+1,18,76635,Will Not Purchase iPhone
+0,28,22123,Will Not Purchase iPhone
+1,20,110710,Will Not Purchase iPhone
+1,40,129837,Will Purchase iPhone
+1,43,134912,Will Not Purchase iPhone
+0,21,82993,Will Not Purchase iPhone
+0,35,132752,Will Purchase iPhone
+0,23,100122,Will Purchase iPhone
+0,52,117512,Will Not Purchase iPhone
+1,39,45416,Will Not Purchase iPhone
+0,32,21814,Will Purchase iPhone
+1,39,98537,Will Not Purchase iPhone
+1,54,70258,Will Not Purchase iPhone
+0,59,36508,Will Not Purchase iPhone
+0,29,105166,Will Not Purchase iPhone
+0,59,98916,Will Purchase iPhone
+0,55,133710,Will Not Purchase iPhone
+0,35,55699,Will Not Purchase iPhone
+0,52,66335,Will Not Purchase iPhone
+0,47,66806,Will Not Purchase iPhone
+0,41,97853,Will Not Purchase iPhone
+1,59,83768,Will Not Purchase iPhone
+0,47,55739,Will Not Purchase iPhone
+0,31,54785,Will Purchase iPhone
+1,23,51980,Will Not Purchase iPhone
+0,20,109335,Will Purchase iPhone
+1,33,120719,Will Purchase iPhone
+1,24,114702,Will Purchase iPhone
+0,31,105016,Will Not Purchase iPhone
+1,26,21609,Will Not Purchase iPhone
+1,32,86253,Will Not Purchase iPhone
+1,38,105481,Will Not Purchase iPhone
+1,52,111128,Will Purchase iPhone
+0,19,48141,Will Not Purchase iPhone
+1,44,50009,Will Not Purchase iPhone
+0,19,147581,Will Not Purchase iPhone
+1,52,130966,Will Purchase iPhone
+1,35,26782,Will Purchase iPhone
+1,31,112072,Will Purchase iPhone
+1,37,119352,Will Purchase iPhone
+0,35,45933,Will Not Purchase iPhone
+0,27,97154,Will Not Purchase iPhone
+1,42,28307,Will Not Purchase iPhone
+1,19,112207,Will Not Purchase iPhone
+0,42,126209,Will Not Purchase iPhone
+1,50,128297,Will Purchase iPhone
+1,53,95874,Will Purchase iPhone
+1,48,58346,Will Not Purchase iPhone
+0,31,132138,Will Purchase iPhone
+0,18,70772,Will Purchase iPhone
+0,33,92084,Will Not Purchase iPhone
+1,20,60149,Will Not Purchase iPhone
+1,52,106700,Will Not Purchase iPhone
+0,58,47526,Will Not Purchase iPhone
+0,23,116758,Will Not Purchase iPhone
+0,42,105712,Will Not Purchase iPhone
+0,30,148447,Will Purchase iPhone
+1,51,88477,Will Purchase iPhone
+0,25,25695,Will Not Purchase iPhone
+1,38,59169,Will Purchase iPhone
+0,51,67947,Will Purchase iPhone
+1,21,67224,Will Purchase iPhone
+0,42,65865,Will Not Purchase iPhone
+0,32,45553,Will Not Purchase iPhone
+0,21,124501,Will Not Purchase iPhone
+0,29,80410,Will Not Purchase iPhone
+1,49,123754,Will Not Purchase iPhone
+0,49,110895,Will Not Purchase iPhone
+1,45,44816,Will Not Purchase iPhone
+1,30,75026,Will Not Purchase iPhone
+1,48,70705,Will Purchase iPhone
+1,31,81922,Will Not Purchase iPhone
+0,37,135700,Will Purchase iPhone
+1,35,93914,Will Not Purchase iPhone
+1,46,21881,Will Purchase iPhone
+1,23,59567,Will Purchase iPhone
+0,49,67365,Will Purchase iPhone
+0,46,147928,Will Not Purchase iPhone
+0,19,99211,Will Purchase iPhone
+0,40,90122,Will Not Purchase iPhone
+1,36,45006,Will Not Purchase iPhone
+1,48,61198,Will Not Purchase iPhone
+0,22,42831,Will Not Purchase iPhone
+1,36,120649,Will Not Purchase iPhone
+1,51,36459,Will Not Purchase iPhone
+1,27,52443,Will Not Purchase iPhone
+0,42,62316,Will Not Purchase iPhone
+0,19,116131,Will Not Purchase iPhone
+1,28,84486,Will Not Purchase iPhone
+0,48,25877,Will Purchase iPhone
+0,32,59553,Will Not Purchase iPhone
+0,26,134137,Will Not Purchase iPhone
+0,40,24922,Will Not Purchase iPhone
+0,36,142778,Will Purchase iPhone
+1,26,137018,Will Not Purchase iPhone
+0,52,24686,Will Purchase iPhone
+1,38,52766,Will Not Purchase iPhone
+1,26,99943,Will Not Purchase iPhone
+0,45,52006,Will Not Purchase iPhone
+1,24,51422,Will Purchase iPhone
+1,33,136590,Will Not Purchase iPhone
+1,33,148886,Will Not Purchase iPhone
+0,50,32205,Will Not Purchase iPhone
+0,21,106590,Will Purchase iPhone
+1,21,43527,Will Not Purchase iPhone
+0,56,131483,Will Purchase iPhone
+0,57,38443,Will Not Purchase iPhone
+0,34,36524,Will Not Purchase iPhone
+0,54,136477,Will Not Purchase iPhone
+1,56,48202,Will Purchase iPhone
+1,46,85552,Will Not Purchase iPhone
+0,53,66142,Will Purchase iPhone
+0,55,81692,Will Not Purchase iPhone
+1,56,102384,Will Not Purchase iPhone
+1,54,40855,Will Purchase iPhone
+0,52,103747,Will Not Purchase iPhone
+1,24,80372,Will Purchase iPhone
+0,44,45095,Will Purchase iPhone
+0,45,58724,Will Not Purchase iPhone
+1,39,69241,Will Purchase iPhone
+1,31,123119,Will Not Purchase iPhone
+0,24,72003,Will Purchase iPhone
+0,54,88379,Will Not Purchase iPhone
+1,39,114837,Will Not Purchase iPhone
+0,22,111996,Will Not Purchase iPhone
+1,19,117454,Will Not Purchase iPhone
+0,44,114283,Will Not Purchase iPhone
+1,38,35972,Will Purchase iPhone
+1,55,143805,Will Purchase iPhone
+1,32,113846,Will Not Purchase iPhone
+0,38,42927,Will Purchase iPhone
+0,27,140589,Will Not Purchase iPhone
+1,40,135657,Will Purchase iPhone
+0,56,86630,Will Not Purchase iPhone
+1,22,124428,Will Purchase iPhone
+1,18,142035,Will Purchase iPhone
+0,30,72347,Will Not Purchase iPhone
+0,38,119708,Will Not Purchase iPhone
+1,43,146244,Will Not Purchase iPhone
+0,38,108860,Will Purchase iPhone
+0,35,106210,Will Not Purchase iPhone
+1,54,89518,Will Not Purchase iPhone
+1,49,65283,Will Purchase iPhone
+0,53,101326,Will Purchase iPhone
+1,34,32205,Will Not Purchase iPhone
+1,52,140243,Will Purchase iPhone
+0,28,109874,Will Not Purchase iPhone
+1,38,32748,Will Not Purchase iPhone
+1,43,41097,Will Not Purchase iPhone
+0,21,23092,Will Not Purchase iPhone
+0,51,73311,Will Purchase iPhone
+1,35,42692,Will Not Purchase iPhone
+1,57,144954,Will Not Purchase iPhone
+0,52,43862,Will Purchase iPhone
+0,58,110396,Will Purchase iPhone
+0,46,99507,Will Not Purchase iPhone
+0,46,100152,Will Not Purchase iPhone
+1,55,90469,Will Purchase iPhone
+0,59,24926,Will Not Purchase iPhone
+0,38,111299,Will Not Purchase iPhone
+1,59,23969,Will Purchase iPhone
+0,30,55733,Will Not Purchase iPhone
+1,58,89855,Will Purchase iPhone
+0,34,61743,Will Not Purchase iPhone
+0,26,59876,Will Purchase iPhone
+0,58,127445,Will Not Purchase iPhone
+1,18,40323,Will Purchase iPhone
+1,19,36428,Will Not Purchase iPhone
+0,46,54578,Will Not Purchase iPhone
+1,50,106486,Will Purchase iPhone
+1,27,128577,Will Not Purchase iPhone
+1,57,84140,Will Not Purchase iPhone
+1,38,146378,Will Purchase iPhone
+1,45,127325,Will Not Purchase iPhone
+1,28,103829,Will Purchase iPhone
+0,51,26364,Will Not Purchase iPhone
+0,25,148867,Will Not Purchase iPhone
+1,39,55349,Will Not Purchase iPhone
+0,25,20691,Will Purchase iPhone
+0,32,146899,Will Not Purchase iPhone
+0,34,115598,Will Not Purchase iPhone
+0,40,86467,Will Not Purchase iPhone
+1,41,65896,Will Not Purchase iPhone
+0,36,77062,Will Not Purchase iPhone
+0,22,117266,Will Purchase iPhone
+1,49,99762,Will Not Purchase iPhone
+1,18,33861,Will Purchase iPhone
+0,40,116837,Will Purchase iPhone
+0,54,133779,Will Purchase iPhone
+0,25,108302,Will Purchase iPhone
+0,30,121710,Will Not Purchase iPhone
+0,25,83928,Will Not Purchase iPhone
+0,40,126643,Will Purchase iPhone
+1,18,135720,Will Not Purchase iPhone
+0,41,103231,Will Not Purchase iPhone
+0,52,61347,Will Not Purchase iPhone
+1,41,23121,Will Not Purchase iPhone
+1,34,103793,Will Not Purchase iPhone
+1,22,48164,Will Not Purchase iPhone
+1,37,45491,Will Not Purchase iPhone
+0,38,79222,Will Purchase iPhone
+0,57,43165,Will Purchase iPhone
+0,48,134250,Will Not Purchase iPhone
+0,53,23748,Will Not Purchase iPhone
+0,28,118581,Will Purchase iPhone
+0,32,46553,Will Purchase iPhone
+1,36,136547,Will Not Purchase iPhone
+0,24,80380,Will Purchase iPhone
+1,45,64331,Will Purchase iPhone
+1,22,116033,Will Not Purchase iPhone
+0,22,116844,Will Not Purchase iPhone
+1,47,140617,Will Not Purchase iPhone
+0,49,59560,Will Not Purchase iPhone
+1,25,73865,Will Not Purchase iPhone
+0,27,66686,Will Purchase iPhone
+1,55,95910,Will Purchase iPhone
+0,49,24675,Will Not Purchase iPhone
+0,45,86706,Will Not Purchase iPhone
+0,34,126985,Will Not Purchase iPhone
+0,48,129021,Will Not Purchase iPhone
+0,25,144062,Will Purchase iPhone
+1,57,147359,Will Not Purchase iPhone
+1,42,97986,Will Not Purchase iPhone
+1,26,96216,Will Not Purchase iPhone
+0,19,30068,Will Purchase iPhone
+1,32,74460,Will Purchase iPhone
+0,20,120766,Will Not Purchase iPhone
+0,53,66418,Will Purchase iPhone
+1,21,46206,Will Purchase iPhone
+1,31,148180,Will Not Purchase iPhone
+0,58,20287,Will Not Purchase iPhone
+1,58,42337,Will Purchase iPhone
+0,42,40666,Will Not Purchase iPhone
+0,27,136595,Will Not Purchase iPhone
+0,38,21161,Will Not Purchase iPhone
+0,53,134817,Will Not Purchase iPhone
+0,29,141025,Will Not Purchase iPhone
+1,44,120667,Will Not Purchase iPhone
+1,57,110071,Will Purchase iPhone
+0,19,118064,Will Purchase iPhone
+0,30,58751,Will Purchase iPhone
+1,49,102063,Will Not Purchase iPhone
+1,48,126511,Will Purchase iPhone
+0,33,109389,Will Not Purchase iPhone
+1,49,34758,Will Not Purchase iPhone
+0,49,85780,Will Purchase iPhone
+1,51,135614,Will Purchase iPhone
+0,28,23178,Will Not Purchase iPhone
+1,27,51831,Will Purchase iPhone
+0,32,22176,Will Purchase iPhone
+1,34,123306,Will Not Purchase iPhone
+1,57,53654,Will Not Purchase iPhone
+0,35,143220,Will Not Purchase iPhone
+1,26,46627,Will Purchase iPhone
+0,42,72550,Will Purchase iPhone
+1,57,132025,Will Purchase iPhone
+0,31,64910,Will Not Purchase iPhone
+1,42,110417,Will Purchase iPhone
+0,39,78251,Will Not Purchase iPhone
+1,47,55422,Will Purchase iPhone
+0,37,31984,Will Purchase iPhone
+1,38,109312,Will Purchase iPhone
+0,49,81386,Will Purchase iPhone
+0,38,103291,Will Not Purchase iPhone
+0,52,27135,Will Not Purchase iPhone
+1,49,20320,Will Not Purchase iPhone
+0,47,122958,Will Not Purchase iPhone
+1,56,114171,Will Purchase iPhone
+0,29,41684,Will Not Purchase iPhone
+1,58,75913,Will Purchase iPhone
+0,35,108774,Will Purchase iPhone
+1,38,41889,Will Not Purchase iPhone
+1,30,115849,Will Not Purchase iPhone
+0,38,118071,Will Not Purchase iPhone
+1,25,68899,Will Purchase iPhone
+1,57,144011,Will Purchase iPhone
+0,24,30770,Will Not Purchase iPhone
+1,40,59321,Will Purchase iPhone
+1,49,105962,Will Not Purchase iPhone
+1,28,129863,Will Not Purchase iPhone
+0,39,61777,Will Purchase iPhone
+1,39,66250,Will Not Purchase iPhone
+0,42,93034,Will Not Purchase iPhone
+1,39,124940,Will Purchase iPhone
+1,45,60130,Will Not Purchase iPhone
+1,46,101931,Will Purchase iPhone
+0,30,69346,Will Purchase iPhone
+1,35,22537,Will Not Purchase iPhone
+1,19,104762,Will Not Purchase iPhone
+0,46,35216,Will Purchase iPhone
+1,38,104149,Will Not Purchase iPhone
+0,32,23009,Will Not Purchase iPhone
+0,44,109904,Will Not Purchase iPhone
+1,48,49327,Will Not Purchase iPhone
+0,32,34209,Will Not Purchase iPhone
+1,40,68443,Will Not Purchase iPhone
+0,41,35029,Will Purchase iPhone
+0,30,87613,Will Not Purchase iPhone
+1,39,99443,Will Purchase iPhone
+0,54,76997,Will Not Purchase iPhone
+0,50,122171,Will Purchase iPhone
+0,20,134456,Will Not Purchase iPhone
+0,36,82559,Will Purchase iPhone
+0,40,84892,Will Purchase iPhone
+1,46,90409,Will Not Purchase iPhone
+0,47,28635,Will Not Purchase iPhone
+1,56,53065,Will Not Purchase iPhone
+0,42,131399,Will Purchase iPhone
+1,54,140544,Will Not Purchase iPhone
+1,25,127340,Will Not Purchase iPhone
+0,59,53783,Will Purchase iPhone
+0,33,54152,Will Not Purchase iPhone
+0,25,78741,Will Not Purchase iPhone
+1,18,127049,Will Not Purchase iPhone
+0,22,71502,Will Not Purchase iPhone
+1,20,49092,Will Purchase iPhone
+1,18,37653,Will Purchase iPhone
+1,21,117999,Will Purchase iPhone
+0,57,119564,Will Not Purchase iPhone
+0,52,60469,Will Not Purchase iPhone
+1,49,143064,Will Purchase iPhone
+1,59,106483,Will Not Purchase iPhone
+0,51,141585,Will Purchase iPhone
+1,42,79754,Will Not Purchase iPhone
+0,27,49978,Will Purchase iPhone
+1,38,107592,Will Purchase iPhone
+0,56,114543,Will Not Purchase iPhone
+1,44,63169,Will Not Purchase iPhone
+0,44,68287,Will Purchase iPhone
+1,19,74745,Will Not Purchase iPhone
+0,58,130168,Will Not Purchase iPhone
+0,30,133985,Will Not Purchase iPhone
+1,26,140843,Will Purchase iPhone
+1,53,25543,Will Not Purchase iPhone
+0,39,76392,Will Purchase iPhone
+1,59,41067,Will Not Purchase iPhone
+0,43,71033,Will Purchase iPhone
+1,29,65256,Will Not Purchase iPhone
+0,34,110633,Will Not Purchase iPhone
+0,31,128383,Will Not Purchase iPhone
+0,31,129048,Will Not Purchase iPhone
+0,51,89345,Will Purchase iPhone
+0,37,42191,Will Purchase iPhone
+0,28,106803,Will Not Purchase iPhone
+1,33,92742,Will Not Purchase iPhone
+1,48,138843,Will Purchase iPhone
+1,23,106593,Will Not Purchase iPhone
+0,36,48992,Will Not Purchase iPhone
+0,54,132050,Will Purchase iPhone
+0,21,101531,Will Purchase iPhone
+0,21,68803,Will Purchase iPhone
+1,37,129975,Will Purchase iPhone
+1,27,83477,Will Not Purchase iPhone
+0,41,33210,Will Not Purchase iPhone
+1,52,103329,Will Not Purchase iPhone
+1,43,46270,Will Not Purchase iPhone
+0,54,82008,Will Not Purchase iPhone
+1,55,25197,Will Not Purchase iPhone
+0,38,133857,Will Not Purchase iPhone
+1,57,27452,Will Purchase iPhone
+0,56,61486,Will Not Purchase iPhone
+0,38,34859,Will Not Purchase iPhone
+0,27,47236,Will Purchase iPhone
+0,55,51899,Will Purchase iPhone
+1,21,52083,Will Not Purchase iPhone
+0,37,87708,Will Not Purchase iPhone
+0,34,131462,Will Not Purchase iPhone
+0,24,36663,Will Not Purchase iPhone
+1,21,113076,Will Not Purchase iPhone
+0,46,138665,Will Purchase iPhone
+1,31,39053,Will Purchase iPhone
+0,20,31085,Will Purchase iPhone
+1,41,50564,Will Not Purchase iPhone
+1,54,109745,Will Purchase iPhone
+0,33,79095,Will Not Purchase iPhone
+1,21,89517,Will Not Purchase iPhone
+0,41,41153,Will Not Purchase iPhone
+0,51,25247,Will Not Purchase iPhone
+0,47,30553,Will Not Purchase iPhone
+1,35,40811,Will Not Purchase iPhone
+1,36,115381,Will Purchase iPhone
+0,48,26135,Will Not Purchase iPhone
+0,36,25573,Will Purchase iPhone
+1,36,138819,Will Purchase iPhone
+0,39,144588,Will Not Purchase iPhone
+0,41,99267,Will Not Purchase iPhone
+0,29,27189,Will Not Purchase iPhone
+1,47,100077,Will Purchase iPhone
+1,55,63646,Will Purchase iPhone
+1,48,96623,Will Purchase iPhone
+0,53,131971,Will Not Purchase iPhone
+0,36,73687,Will Not Purchase iPhone
+0,53,88312,Will Not Purchase iPhone
+1,47,127615,Will Not Purchase iPhone
+0,50,47564,Will Not Purchase iPhone
+0,35,48835,Will Not Purchase iPhone
+0,45,81587,Will Purchase iPhone
+0,28,27697,Will Not Purchase iPhone
+1,50,100165,Will Purchase iPhone
+1,34,93922,Will Purchase iPhone
+0,23,37046,Will Not Purchase iPhone
+1,21,77823,Will Purchase iPhone
+1,37,93580,Will Purchase iPhone
+0,44,73370,Will Not Purchase iPhone
+0,32,29615,Will Not Purchase iPhone
+1,23,133338,Will Not Purchase iPhone
+0,31,25060,Will Not Purchase iPhone
+1,28,96436,Will Not Purchase iPhone
+0,56,80519,Will Not Purchase iPhone
+1,26,140562,Will Purchase iPhone
+0,43,91117,Will Purchase iPhone
+1,33,81158,Will Not Purchase iPhone
+1,22,54782,Will Not Purchase iPhone
+1,27,105709,Will Not Purchase iPhone
+0,20,98533,Will Purchase iPhone
+1,30,128939,Will Purchase iPhone
+1,47,78255,Will Not Purchase iPhone
+0,23,131952,Will Purchase iPhone
+0,34,92684,Will Not Purchase iPhone
+1,36,76918,Will Purchase iPhone
+1,59,146093,Will Purchase iPhone
+0,52,104284,Will Not Purchase iPhone
+0,43,99558,Will Not Purchase iPhone
+0,22,105549,Will Purchase iPhone
+0,46,124223,Will Purchase iPhone
+0,54,101422,Will Not Purchase iPhone
+1,37,140363,Will Purchase iPhone
+0,38,146352,Will Not Purchase iPhone
+1,27,45256,Will Not Purchase iPhone
+1,22,50005,Will Purchase iPhone
+1,53,26638,Will Not Purchase iPhone
+0,23,57419,Will Purchase iPhone
+1,43,53377,Will Not Purchase iPhone
+1,21,126244,Will Not Purchase iPhone
+0,56,63116,Will Not Purchase iPhone
+1,56,56634,Will Purchase iPhone
+1,52,102291,Will Purchase iPhone
+0,18,43382,Will Not Purchase iPhone
+1,41,135303,Will Not Purchase iPhone
+1,53,76063,Will Not Purchase iPhone
+1,23,42394,Will Purchase iPhone
+0,58,87789,Will Not Purchase iPhone
+0,48,123246,Will Purchase iPhone
+0,37,130634,Will Purchase iPhone
+1,41,20864,Will Not Purchase iPhone
+1,42,119572,Will Purchase iPhone
+0,53,60222,Will Not Purchase iPhone
+1,38,33666,Will Not Purchase iPhone
+1,47,143664,Will Not Purchase iPhone
+0,41,40955,Will Not Purchase iPhone
+0,59,130674,Will Not Purchase iPhone
+1,47,123533,Will Purchase iPhone
+1,39,101845,Will Not Purchase iPhone
+1,45,136925,Will Purchase iPhone
+0,24,89590,Will Purchase iPhone
+0,52,147775,Will Not Purchase iPhone
+0,45,86471,Will Not Purchase iPhone
+0,31,130476,Will Not Purchase iPhone
+1,27,108314,Will Purchase iPhone
+0,33,142579,Will Purchase iPhone
+0,33,63298,Will Purchase iPhone
+0,48,83108,Will Not Purchase iPhone
+0,59,133864,Will Not Purchase iPhone
+0,42,68924,Will Purchase iPhone
+1,30,36709,Will Purchase iPhone
+1,23,29726,Will Purchase iPhone
+0,26,80824,Will Purchase iPhone
+1,53,60542,Will Not Purchase iPhone
+0,37,40245,Will Not Purchase iPhone
+0,35,54753,Will Purchase iPhone
+1,38,99788,Will Not Purchase iPhone
+1,21,41316,Will Not Purchase iPhone
+0,50,122907,Will Not Purchase iPhone
+0,44,104698,Will Not Purchase iPhone
+0,24,35960,Will Purchase iPhone
+1,23,50791,Will Purchase iPhone
+0,32,127766,Will Not Purchase iPhone
+0,35,45216,Will Purchase iPhone
+0,49,52467,Will Not Purchase iPhone
+1,28,84427,Will Not Purchase iPhone
+0,37,132470,Will Not Purchase iPhone
+0,41,82047,Will Purchase iPhone
+1,32,93290,Will Not Purchase iPhone
+0,24,67014,Will Purchase iPhone
+0,38,24078,Will Purchase iPhone
+1,59,98389,Will Not Purchase iPhone
+0,43,70519,Will Not Purchase iPhone
+1,31,24042,Will Not Purchase iPhone
+1,54,69052,Will Not Purchase iPhone
+0,38,34389,Will Purchase iPhone
+0,35,115961,Will Purchase iPhone
+0,22,88111,Will Purchase iPhone
+0,20,125058,Will Not Purchase iPhone
+1,40,113715,Will Not Purchase iPhone
+0,43,70733,Will Purchase iPhone
+1,54,54754,Will Not Purchase iPhone
+0,41,38624,Will Purchase iPhone
+0,36,105886,Will Purchase iPhone
+0,42,46681,Will Not Purchase iPhone
+1,38,109524,Will Purchase iPhone
+0,29,101006,Will Not Purchase iPhone
+0,58,44704,Will Not Purchase iPhone
+0,50,124272,Will Not Purchase iPhone
+0,21,114913,Will Purchase iPhone
+1,59,114108,Will Purchase iPhone
+0,24,143731,Will Not Purchase iPhone
+1,39,27493,Will Purchase iPhone
+1,50,89639,Will Purchase iPhone
+1,34,120380,Will Not Purchase iPhone
+1,41,74383,Will Not Purchase iPhone
+1,51,22994,Will Purchase iPhone
+1,45,89280,Will Purchase iPhone
+0,58,67234,Will Not Purchase iPhone
+1,56,67291,Will Purchase iPhone
+1,39,148674,Will Purchase iPhone
+1,34,112868,Will Not Purchase iPhone
+0,51,25594,Will Not Purchase iPhone
+0,23,125835,Will Not Purchase iPhone
+1,23,27371,Will Not Purchase iPhone
+0,51,67315,Will Not Purchase iPhone
+1,18,103564,Will Not Purchase iPhone
+1,27,147251,Will Not Purchase iPhone
+0,38,121448,Will Not Purchase iPhone
+1,22,99526,Will Not Purchase iPhone
+0,19,132387,Will Purchase iPhone
+0,39,36626,Will Not Purchase iPhone
+1,19,106005,Will Purchase iPhone
+1,27,126258,Will Not Purchase iPhone
+0,51,125573,Will Purchase iPhone
+1,33,27130,Will Purchase iPhone
+1,56,26828,Will Purchase iPhone
+1,39,77514,Will Not Purchase iPhone
+0,29,127148,Will Not Purchase iPhone
+0,41,132524,Will Purchase iPhone
+1,57,124635,Will Purchase iPhone
+0,55,72664,Will Purchase iPhone
+0,27,131701,Will Not Purchase iPhone
+0,52,37883,Will Purchase iPhone
+0,49,63059,Will Not Purchase iPhone
+0,24,104078,Will Purchase iPhone
+1,38,62932,Will Not Purchase iPhone
+1,37,149900,Will Purchase iPhone
+1,43,81269,Will Purchase iPhone
+0,21,139850,Will Purchase iPhone
+0,39,95986,Will Not Purchase iPhone
+1,32,105959,Will Purchase iPhone
+0,57,22035,Will Not Purchase iPhone
+1,38,129767,Will Not Purchase iPhone
+1,32,60745,Will Not Purchase iPhone
+1,39,37241,Will Not Purchase iPhone
+0,45,72975,Will Not Purchase iPhone
+0,31,43154,Will Not Purchase iPhone
+1,44,45625,Will Not Purchase iPhone
+1,58,64950,Will Not Purchase iPhone
+1,57,118602,Will Not Purchase iPhone
+1,45,76396,Will Purchase iPhone
+0,43,119227,Will Not Purchase iPhone
+0,19,138920,Will Not Purchase iPhone
+1,42,33331,Will Purchase iPhone
+1,20,83927,Will Purchase iPhone
+0,25,106226,Will Purchase iPhone
+0,50,104719,Will Not Purchase iPhone
+1,59,83014,Will Purchase iPhone
+1,52,59346,Will Purchase iPhone
+1,23,90411,Will Not Purchase iPhone
+0,56,74478,Will Not Purchase iPhone
+0,40,32254,Will Purchase iPhone
+0,42,75734,Will Purchase iPhone
+1,36,48621,Will Not Purchase iPhone
+1,22,136490,Will Purchase iPhone
+0,28,96441,Will Purchase iPhone
+0,29,66121,Will Not Purchase iPhone
+1,27,147386,Will Not Purchase iPhone
+0,25,101418,Will Purchase iPhone
+0,41,80197,Will Not Purchase iPhone
+1,45,104577,Will Not Purchase iPhone
+0,58,114634,Will Purchase iPhone
+1,53,138034,Will Not Purchase iPhone
+1,54,62431,Will Purchase iPhone
+1,38,137637,Will Not Purchase iPhone
+1,25,119245,Will Not Purchase iPhone
+1,26,120211,Will Not Purchase iPhone
+1,32,24837,Will Not Purchase iPhone
+1,57,131984,Will Purchase iPhone
+0,35,110025,Will Not Purchase iPhone
+1,59,103163,Will Not Purchase iPhone
+1,37,91232,Will Purchase iPhone
+0,23,68994,Will Not Purchase iPhone
+0,29,99079,Will Purchase iPhone
+0,19,32615,Will Purchase iPhone
+1,24,21466,Will Purchase iPhone
+0,33,50771,Will Not Purchase iPhone
+1,20,138645,Will Not Purchase iPhone
+1,20,103886,Will Not Purchase iPhone
+1,44,85911,Will Not Purchase iPhone
+1,57,118566,Will Not Purchase iPhone
+0,55,40746,Will Not Purchase iPhone
+0,50,108422,Will Not Purchase iPhone
+1,45,129884,Will Not Purchase iPhone
+1,18,80739,Will Purchase iPhone
+1,25,128440,Will Not Purchase iPhone
+0,54,118187,Will Purchase iPhone
+1,49,93369,Will Purchase iPhone
+1,54,21893,Will Not Purchase iPhone
+0,21,50573,Will Not Purchase iPhone
+0,47,116907,Will Purchase iPhone
+1,23,60874,Will Not Purchase iPhone
+0,36,97362,Will Purchase iPhone
+0,49,119956,Will Not Purchase iPhone
+1,26,107460,Will Not Purchase iPhone
+0,29,147021,Will Not Purchase iPhone
+1,28,138580,Will Purchase iPhone
+0,33,53367,Will Not Purchase iPhone
+1,18,41199,Will Not Purchase iPhone
+1,38,136600,Will Not Purchase iPhone
+1,47,111404,Will Not Purchase iPhone
+0,30,94328,Will Not Purchase iPhone
+1,51,77724,Will Purchase iPhone
+0,21,106133,Will Not Purchase iPhone
+1,45,56405,Will Not Purchase iPhone
+1,55,118232,Will Purchase iPhone
+0,48,128659,Will Not Purchase iPhone
+1,44,35989,Will Purchase iPhone
+1,22,48931,Will Not Purchase iPhone
+0,42,29290,Will Not Purchase iPhone
+1,20,58367,Will Purchase iPhone
+1,50,141136,Will Not Purchase iPhone
+1,21,99878,Will Not Purchase iPhone
+1,42,110477,Will Purchase iPhone
+0,37,99481,Will Purchase iPhone
+0,51,96298,Will Purchase iPhone
+1,43,146299,Will Purchase iPhone
+0,22,50133,Will Not Purchase iPhone
+1,52,132616,Will Not Purchase iPhone
+0,45,125686,Will Purchase iPhone
+1,46,47052,Will Not Purchase iPhone
+1,26,127286,Will Not Purchase iPhone
+1,55,105489,Will Not Purchase iPhone
+1,23,60475,Will Purchase iPhone
+1,36,102666,Will Purchase iPhone
+1,28,116622,Will Not Purchase iPhone
+0,19,77656,Will Purchase iPhone
+1,26,24633,Will Not Purchase iPhone
+0,38,37304,Will Purchase iPhone
+1,41,127573,Will Purchase iPhone
+0,51,117820,Will Purchase iPhone
+0,39,66546,Will Purchase iPhone
+0,20,27008,Will Not Purchase iPhone
+1,29,68291,Will Not Purchase iPhone
+1,45,47405,Will Purchase iPhone
+0,47,137069,Will Not Purchase iPhone
+1,43,56386,Will Purchase iPhone
+0,38,110909,Will Not Purchase iPhone
+1,45,40827,Will Purchase iPhone
+0,43,53040,Will Not Purchase iPhone
+0,50,80354,Will Not Purchase iPhone
+1,38,98543,Will Purchase iPhone
+0,52,38157,Will Purchase iPhone
+1,51,117693,Will Not Purchase iPhone
+0,58,55315,Will Purchase iPhone
+0,35,55932,Will Not Purchase iPhone
+1,28,41164,Will Not Purchase iPhone
+1,40,34414,Will Purchase iPhone
+1,39,147597,Will Purchase iPhone
+0,34,34327,Will Not Purchase iPhone
+1,22,133880,Will Not Purchase iPhone
+0,28,20946,Will Not Purchase iPhone
+0,47,34693,Will Not Purchase iPhone
+1,32,47241,Will Purchase iPhone
+1,44,135194,Will Not Purchase iPhone
+0,52,115790,Will Purchase iPhone
+0,50,35540,Will Purchase iPhone
+1,37,92255,Will Not Purchase iPhone
+1,33,84757,Will Not Purchase iPhone
+1,51,61203,Will Purchase iPhone
+1,19,45081,Will Not Purchase iPhone
+1,52,81861,Will Purchase iPhone
+0,57,31350,Will Not Purchase iPhone
+0,45,75512,Will Not Purchase iPhone
+0,56,76809,Will Purchase iPhone
+0,23,121894,Will Not Purchase iPhone
+1,26,117557,Will Purchase iPhone
+1,37,62832,Will Not Purchase iPhone
+1,18,48369,Will Not Purchase iPhone
+0,25,51728,Will Purchase iPhone
+0,40,37576,Will Not Purchase iPhone
+1,20,49001,Will Purchase iPhone
+1,21,147625,Will Purchase iPhone
+0,42,103384,Will Not Purchase iPhone
+0,55,20390,Will Purchase iPhone
+1,32,107535,Will Not Purchase iPhone
+1,38,65436,Will Purchase iPhone
+0,52,31569,Will Purchase iPhone
+1,31,33029,Will Not Purchase iPhone
+1,53,42490,Will Purchase iPhone
+1,29,65875,Will Not Purchase iPhone
+0,34,143552,Will Purchase iPhone
+0,56,120864,Will Purchase iPhone
+0,26,25867,Will Not Purchase iPhone
+0,52,100820,Will Not Purchase iPhone
+0,30,119515,Will Not Purchase iPhone
+0,32,29121,Will Purchase iPhone
+0,35,21539,Will Purchase iPhone
+1,50,111024,Will Purchase iPhone
+1,23,37027,Will Purchase iPhone
+1,44,147402,Will Not Purchase iPhone
+1,40,94229,Will Not Purchase iPhone
+1,44,28921,Will Purchase iPhone
+1,51,70435,Will Purchase iPhone
+1,55,142368,Will Not Purchase iPhone
+0,31,30310,Will Not Purchase iPhone
+0,53,83965,Will Purchase iPhone
+1,25,142033,Will Purchase iPhone
+1,52,131048,Will Purchase iPhone
+0,36,116444,Will Not Purchase iPhone
+1,47,89922,Will Purchase iPhone
+1,31,117799,Will Not Purchase iPhone
+0,37,113948,Will Not Purchase iPhone
+1,42,102839,Will Purchase iPhone
+0,57,32242,Will Not Purchase iPhone
+1,41,137027,Will Not Purchase iPhone
+0,31,132561,Will Purchase iPhone
+0,43,28947,Will Not Purchase iPhone
+0,55,132250,Will Purchase iPhone
+1,40,91466,Will Not Purchase iPhone
+0,39,123706,Will Not Purchase iPhone
+1,36,140351,Will Not Purchase iPhone
+1,20,144749,Will Not Purchase iPhone
+1,59,81816,Will Purchase iPhone
+1,36,68785,Will Not Purchase iPhone
+0,26,139963,Will Not Purchase iPhone
+0,45,20507,Will Not Purchase iPhone
+1,37,86972,Will Not Purchase iPhone
+1,24,47151,Will Not Purchase iPhone
+0,31,31618,Will Not Purchase iPhone
+1,26,94286,Will Not Purchase iPhone
+0,36,36122,Will Not Purchase iPhone
+1,31,27354,Will Not Purchase iPhone
+1,55,129598,Will Purchase iPhone
+0,53,50979,Will Purchase iPhone
+1,57,106436,Will Not Purchase iPhone
+0,34,99376,Will Purchase iPhone
+1,47,72774,Will Purchase iPhone
+1,26,122703,Will Not Purchase iPhone
+1,50,25037,Will Purchase iPhone
+0,42,48633,Will Purchase iPhone
+1,31,44495,Will Not Purchase iPhone
+1,28,84550,Will Not Purchase iPhone
+1,52,101384,Will Purchase iPhone
+1,58,56483,Will Not Purchase iPhone
+0,31,133181,Will Not Purchase iPhone
+0,47,93373,Will Purchase iPhone
+1,58,54069,Will Not Purchase iPhone
+0,21,27370,Will Not Purchase iPhone
+1,21,139873,Will Purchase iPhone
+1,45,136843,Will Purchase iPhone
+1,25,91947,Will Not Purchase iPhone
+0,19,59133,Will Purchase iPhone
+0,58,116035,Will Not Purchase iPhone
+0,39,115761,Will Purchase iPhone
+0,58,133753,Will Not Purchase iPhone
+0,33,20692,Will Purchase iPhone
+0,46,48926,Will Not Purchase iPhone
+0,47,119782,Will Purchase iPhone
+0,29,124700,Will Not Purchase iPhone
+0,52,93984,Will Not Purchase iPhone
+1,28,63390,Will Not Purchase iPhone
+0,38,69593,Will Not Purchase iPhone
+0,38,95609,Will Not Purchase iPhone
+0,22,120950,Will Purchase iPhone
+0,37,25209,Will Purchase iPhone
+0,54,146700,Will Purchase iPhone
+0,20,26533,Will Not Purchase iPhone
+0,50,106597,Will Purchase iPhone
+0,26,27211,Will Purchase iPhone
+0,26,29927,Will Not Purchase iPhone
+0,21,97463,Will Not Purchase iPhone
+0,52,137333,Will Purchase iPhone
+1,34,44594,Will Purchase iPhone
+1,51,94852,Will Not Purchase iPhone
+0,41,97713,Will Not Purchase iPhone
+0,49,96382,Will Not Purchase iPhone
